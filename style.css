@@ -19,13 +19,13 @@ body {
 }
 
 .nhg-logo {
-  background-image: url("data:image/svg+xml,%3Csvg width='100%25' height='100%25' viewBox='0 0 1000 1000' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xml:space='preserve' xmlns:serif='http://www.serif.com/' style='fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;'%3E%3Cg transform='matrix(1,0,0,1,0,-1100)'%3E%3Cg id='logo_basic' transform='matrix(1,0,0,1,0,1100)'%3E%3Crect x='0' y='0' width='1000' height='1000' style='fill:rgb(254,250,252);'/%3E%3CclipPath id='_clip1'%3E%3Crect x='0' y='0' width='1000' height='1000'/%3E%3C/clipPath%3E%3Cg clip-path='url(%23_clip1)'%3E%3Cg transform='matrix(1.91787,0,0,1.91787,-220.16,-967.169)'%3E%3Cg transform='matrix(1.63461,0,0,1.63461,13.203,334.219)'%3E%3Ccircle cx='290' cy='290' r='70'/%3E%3C/g%3E%3Cpath d='M263.977,808.257C263.976,873.155 218.769,919.89 152.345,919.89L126.168,919.89L133.985,864.269C140.174,864.222 146.335,864.158 152.345,864.074C187.43,863.582 208.161,843.549 208.161,808.257C208.161,654.229 333.212,529.177 487.241,529.177C541.997,529.177 593.091,544.98 636.206,572.27L627.452,634.557C589.117,603.563 540.33,584.993 487.241,584.993C364.021,584.993 263.981,685.03 263.977,808.257Z'/%3E%3Cg transform='matrix(2.79081,0,0,2.79081,-489.541,-168.524)'%3E%3Cpath d='M219.215,400L230,400C257.596,400 280,377.596 280,350C280,311.366 311.366,280 350,280C368.857,280 385.982,287.472 398.574,299.615L394.655,327.499C386.415,311.192 369.504,300 350,300C322.405,300 300.001,322.403 300,350C299.999,388.634 268.635,418.999 230,419L216.545,419L219.215,400Z' style='fill:rgb(5,5,5);'/%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
-  background-size: 32px auto;
+  background-image: url("logo.svg");
+  background-size: 100% auto;
   background-repeat: no-repeat;
   background-position: center center;
-  width: 50px;
-  height: 50px;
-  opacity: 0.2;
+  width: 10%;
+  height: 10%;
+  opacity: 0.5;
   filter: alpha(opacity=20);
 }
 .maintenance-anim {
